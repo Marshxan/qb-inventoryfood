@@ -26,3 +26,19 @@ Step 8: Copy All Of That And Paste It Into ``[qb]/qb-core/shared/items.lua`` (sc
 .
 
 Step 9: enter your server and start testing :)
+
+.
+
+.
+
+# Big Thanks To These People!
+
+Thanks To the Following People That Have Helped Me In Some Way!
+
+Marshy#1234
+
+Rony#2511
+
+Stan#1969
+
+ssfur#3870
