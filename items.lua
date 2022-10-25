@@ -1,6 +1,6 @@
 -- READ THIS
 -- Go To qb-core/shared/items.lua
--- THEN GO TO THE BOTTOM AND PASTE!!!!
+-- THEN GO TO THE BOTTOM AND PASTE!!!! 
 
 	['marshy-aero'] 				 	 = {['name'] = 'marshy-aero', 			  	  		['label'] = 'aero', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'marshy-aero.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy'},
 	['marshy-beanz'] 				 	 = {['name'] = 'marshy-beanz', 			  	  		['label'] = 'beans', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'marshy-beanz.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy'},
