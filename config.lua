@@ -1,1 +1,4 @@
-Needs updating
+-- READ THIS
+-- Go To qb-smallresources/config.lua
+-- ADD THIS UNDER THE FOOD SECTION!!!!!!!   ConsumeablesEat = {}
+-- MAKE SURE U PASTE THIS AT THE BOTTOM OR IT WONT WORK
