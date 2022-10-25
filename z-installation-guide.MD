@@ -31,7 +31,9 @@ Step 9: enter your server and start testing :)
 
 .
 
-# Big Thanks To These People!
+.
+
+# 🎉 Big Thanks To These People! 🎉
 
 Thanks To the Following People That Have Helped Me In Some Way!
 
