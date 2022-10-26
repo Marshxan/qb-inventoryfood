@@ -10,7 +10,6 @@
 8. Copy all of that and paste it into ``[qb]/qb-core/shared/items.lua`` (scroll To The Bottom And Paste There)
 9. enter your server and start testing :)
 
-# 🎉 Big Thanks To These People! 🎉
 
 <h1 align="center"> 🎉 Big Thanks To These People! 🎉 </h1>
 
