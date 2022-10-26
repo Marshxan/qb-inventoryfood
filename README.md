@@ -8,7 +8,7 @@
 6. Copy all of that and paste it into ``[qb]/qb-inventory/html/images``
 7. Go to [Items.lua](https://github.com/Marshxan/qb-inventoryfood/blob/main/items.lua)
 8. Copy all of that and paste it into ``[qb]/qb-core/shared/items.lua`` (scroll To The Bottom And Paste There)
-9. enter your server and start testing :)
+9. enter your server and start testing <3
 
 
 <h1 align="center"> 🎉 Big Thanks To The Following People! 🎉 </h1>
