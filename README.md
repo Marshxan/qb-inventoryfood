@@ -11,7 +11,7 @@
 9. enter your server and start testing :)
 
 
-<h1 align="left"> 🎉 Big Thanks To These People! 🎉 </h1>
+<h1 align="center"> 🎉 Big Thanks To The Following People! 🎉 </h1>
 
 Thanks To the Following People That Have Helped Me In Some Way!
 
