@@ -19,3 +19,4 @@ Thanks To the Following People That Have Helped Me In Some Way!
 - Rony#2511 - With Finding Items
 - Stan#1969 - The Repo And Finding Items
 - ssfur#3870 - With Finding Items
+- SPKReality#7727 - Changing Image Sizes
