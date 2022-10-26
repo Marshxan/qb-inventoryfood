@@ -1,6 +1,6 @@
 -- READ THIS
 -- Add This To The Following!
--- qb-smallresources/server/consumables.lua >> Add To The Drinks Section!!!
+-- qb-smallresources/server/consumables.lua >> Add To The Drinks Section!!! 
 
 QBCore.Functions.CreateUseableItem("marshy-aero", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
