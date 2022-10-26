@@ -12,6 +12,8 @@
 
 # 🎉 Big Thanks To These People! 🎉
 
+<h1 align="center"> 🎉 Big Thanks To These People! 🎉 </h1>
+
 Thanks To the Following People That Have Helped Me In Some Way!
 
 - Marshy#1234 - lol me hehe
