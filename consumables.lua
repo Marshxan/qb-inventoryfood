@@ -9,8 +9,6 @@ QBCore.Functions.CreateUseableItem("marshy-aero", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-beanz", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -18,8 +16,6 @@ QBCore.Functions.CreateUseableItem("marshy-beanz", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-bourbon", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -27,8 +23,6 @@ QBCore.Functions.CreateUseableItem("marshy-bourbon", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-bubbaloo", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -43,8 +37,6 @@ QBCore.Functions.CreateUseableItem("marshy-bueno", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-chrunchie", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -59,8 +51,6 @@ QBCore.Functions.CreateUseableItem("marshy-corner.bcf", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-corner.s", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -68,8 +58,6 @@ QBCore.Functions.CreateUseableItem("marshy-corner.s", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-corner.vcb", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -77,8 +65,6 @@ QBCore.Functions.CreateUseableItem("marshy-corner.vcb", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-creame-egg", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -86,8 +72,6 @@ QBCore.Functions.CreateUseableItem("marshy-creame-egg", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-crumpets", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -95,8 +79,6 @@ QBCore.Functions.CreateUseableItem("marshy-crumpets", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-custard-cream", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -104,8 +86,6 @@ QBCore.Functions.CreateUseableItem("marshy-custard-cream", function(source, item
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-dairymilk", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -113,8 +93,6 @@ QBCore.Functions.CreateUseableItem("marshy-dairymilk", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-dibdabs", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -122,8 +100,6 @@ QBCore.Functions.CreateUseableItem("marshy-dibdabs", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-digestive", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -131,8 +107,6 @@ QBCore.Functions.CreateUseableItem("marshy-digestive", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-dorito.classic", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -140,8 +114,6 @@ QBCore.Functions.CreateUseableItem("marshy-dorito.classic", function(source, ite
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-dorito.coolranch", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -149,8 +121,6 @@ QBCore.Functions.CreateUseableItem("marshy-dorito.coolranch", function(source, i
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-dorito.flaming", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -158,8 +128,6 @@ QBCore.Functions.CreateUseableItem("marshy-dorito.flaming", function(source, ite
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-dorito.heatwave", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -167,8 +135,6 @@ QBCore.Functions.CreateUseableItem("marshy-dorito.heatwave", function(source, it
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-dunkers", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -176,8 +142,6 @@ QBCore.Functions.CreateUseableItem("marshy-dunkers", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-flake", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -185,8 +149,6 @@ QBCore.Functions.CreateUseableItem("marshy-flake", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-frazzles", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -194,8 +156,6 @@ QBCore.Functions.CreateUseableItem("marshy-frazzles", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-freddo", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -203,8 +163,6 @@ QBCore.Functions.CreateUseableItem("marshy-freddo", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-fruit-tella", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -212,8 +170,6 @@ QBCore.Functions.CreateUseableItem("marshy-fruit-tella", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-greggs.d", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -221,8 +177,6 @@ QBCore.Functions.CreateUseableItem("marshy-greggs.d", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-greggs.sb", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -230,8 +184,6 @@ QBCore.Functions.CreateUseableItem("marshy-greggs.sb", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-greggs.sr", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -239,8 +191,6 @@ QBCore.Functions.CreateUseableItem("marshy-greggs.sr", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-hobnobs", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -248,8 +198,6 @@ QBCore.Functions.CreateUseableItem("marshy-hobnobs", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-hula-hoops", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -257,8 +205,6 @@ QBCore.Functions.CreateUseableItem("marshy-hula-hoops", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-jammy-dodger", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -266,8 +212,6 @@ QBCore.Functions.CreateUseableItem("marshy-jammy-dodger", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-kipling", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -275,8 +219,6 @@ QBCore.Functions.CreateUseableItem("marshy-kipling", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-kitkat", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -284,8 +226,6 @@ QBCore.Functions.CreateUseableItem("marshy-kitkat", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-kp-peanuts", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -293,8 +233,6 @@ QBCore.Functions.CreateUseableItem("marshy-kp-peanuts", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-malteasers", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -302,8 +240,6 @@ QBCore.Functions.CreateUseableItem("marshy-malteasers", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-maoam-stripes", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -311,8 +247,6 @@ QBCore.Functions.CreateUseableItem("marshy-maoam-stripes", function(source, item
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-marylands", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -320,8 +254,6 @@ QBCore.Functions.CreateUseableItem("marshy-marylands", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-mccoys.fgs", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -329,8 +261,6 @@ QBCore.Functions.CreateUseableItem("marshy-mccoys.fgs", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-mccoys.salted", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -338,8 +268,6 @@ QBCore.Functions.CreateUseableItem("marshy-mccoys.salted", function(source, item
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-mccoys.sav", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
@@ -347,8 +275,6 @@ QBCore.Functions.CreateUseableItem("marshy-mccoys.sav", function(source, item)
     end
 end) 
 
--- QB-Inventory Drinks By... MARSHY!!!!! --
- 
 QBCore.Functions.CreateUseableItem("marshy-mccoys.tsc", function(source, item)
     local Player = QBCore.Functions.GetPlayer(source)
 	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
