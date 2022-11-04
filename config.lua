@@ -72,3 +72,10 @@
     ["marshy-greggs.d"] = math.random(35, 54),
     ["marshy-greggs.sb"] = math.random(35, 54),
     ["marshy-greggs.sr"] = math.random(35, 54),
+    ["marshy-marshmallow"] = math.random(35, 54),
+    ["marshy-maxibon"] = math.random(35, 54),
+    ["marshy-pringles.o"] = math.random(35, 54),
+    ["marshy-pringles.sc"] = math.random(35, 54),
+    ["marshy-starmix"] = math.random(35, 54),
+
+
