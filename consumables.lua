@@ -478,3 +478,38 @@ QBCore.Functions.CreateUseableItem("marshy-wispa", function(source, item)
     end
 end) 
 
+QBCore.Functions.CreateUseableItem("marshy-marshmallow", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Eat", source, item.name)
+    end
+end) 
+
+QBCore.Functions.CreateUseableItem("marshy-maxibon", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Eat", source, item.name)
+    end
+end) 
+
+QBCore.Functions.CreateUseableItem("marshy-pringles.o", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Eat", source, item.name)
+    end
+end) 
+
+QBCore.Functions.CreateUseableItem("marshy-pringles.sc", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Eat", source, item.name)
+    end
+end) 
+
+QBCore.Functions.CreateUseableItem("marshy-starmix", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Eat", source, item.name)
+    end
+end) 
+
