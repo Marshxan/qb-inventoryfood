@@ -5,7 +5,7 @@
 
 
     ["marshy-aero"] = math.random(35, 54), 
-    ["marshy-beanz"] = math.random(35, 54),    
+    ["marshy-beanz"] = math.random(35, 54),     
     ["marshy-bourbon"] = math.random(35, 54),
     ["marshy-bubbaloo"] = math.random(35, 54),
     ["marshy-bueno"] = math.random(35, 54),
