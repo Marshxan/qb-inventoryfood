@@ -71,8 +71,3 @@
 	['marshy-pringles.o'] 				 = {['name'] = 'marshy-pringles.o', 			['label'] = 'Pringles Original', 		['weight'] = 200, 		['type'] = 'item', 		['image'] = 'marshy-pringles.o.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy'},
 	['marshy-pringles.sc'] 				 = {['name'] = 'marshy-pringles.sc', 			['label'] = 'Pringles Sour Cream', 		['weight'] = 200, 		['type'] = 'item', 		['image'] = 'marshy-pringles.sc.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy'},
 	['marshy-starmix'] 				 	 = {['name'] = 'marshy-starmix', 				['label'] = 'Haribo Starmix', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'marshy-starmix.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy'},
-
-
-
-
-	
