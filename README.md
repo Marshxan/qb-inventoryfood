@@ -26,3 +26,12 @@ Thanks To the Following People That Have Helped Me In Some Way!
 - SPKReality#7727 - Changing Image Sizes
 - ⸸♱♥IDK_FORCE♥♱⸸#7611 - Optimizing Images
 - RowDog#1671 - Adding New Items
+
+
+
+<details>
+<summary>About It</summary>
+<b>Description:</b> A QBCore Based Theme For TxAdmin Panel<br>
+<tr>
+<td>
+</tr>
