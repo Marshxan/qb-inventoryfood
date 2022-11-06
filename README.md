@@ -23,6 +23,7 @@ Thanks To the Following People That Have Helped Me In Some Way!
 <summary>Marshy</summary>
 <b>-</b> lol me hehe<br>
 </tr>
+<details>
 
 <details>
 <summary>Rony</summary>
