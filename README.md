@@ -19,39 +19,10 @@
 
 Thanks To the Following People That Have Helped Me In Some Way!
 
-<details>
-<summary>Marshy</summary>
-<b>-</b> lol me hehe<br>
-</tr>
-<td>
-</tr>
-
-<details>
-<summary>Rony</summary>
-<b>-</b> With Finding Items<br>
-</tr>
-
-<details>
-<summary>Stan</summary>
-<b>-</b>The Repo And Finding Items<br>
-</tr>
-
-<details>
-<summary>ssfur</summary>
-<b>-</b> With Finding Items<br>
-</tr>
-
-<details>
-<summary>SPKReality</summary>
-<b>-</b> Changing Image Sizes<br>
-</tr>
-
-<details>
-<summary>⸸♱♥IDK_FORCE♥♱⸸</summary>
-<b>-</b> Optimizing Images<br>
-</tr>
-
-<details>
-<summary>RowDog</summary>
-<b>-</b> Adding New Items<br>
-</tr>
+- Marshy#1234 - lol me hehe
+- Rony#2511 - With Finding Items
+- Stan#1969 - The Repo And Finding Items
+- ssfur#3870 - With Finding Items
+- SPKReality#7727 - Changing Image Sizes
+- ⸸♱♥IDK_FORCE♥♱⸸#7611 - Optimizing Images
+- RowDog#1671 - Adding New Items
