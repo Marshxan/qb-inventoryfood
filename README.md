@@ -2,7 +2,8 @@
 <img src="https://forum.cfx.re/uploads/default/original/4X/3/1/f/31f52745e02a82d87b50858715844d3daade903d.png">
 </p>
 
-## How To Install **qb-inventoryFood**
+
+<h1 align="center"> 🎉 How To Install **qb-inventoryFood** 🎉 </h1>
 
 1. Go to [config.lua](https://github.com/Marshxan/qb-inventoryfood/blob/main/config.lua)
 2. Copy all of that and paste it into ``[qb]/qb-smallresources/config.lua`` You Should Find A section Called ``ConsumeablesEat = {}``
