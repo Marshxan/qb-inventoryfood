@@ -30,8 +30,6 @@ Thanks To the Following People That Have Helped Me In Some Way!
 
 
 <details>
-<summary>About It</summary>
-<b>Description:</b> A QBCore Based Theme For TxAdmin Panel<br>
-<tr>
-<td>
+<summary>Marshy</summary>
+<b>-</b> lol me hehe<br>
 </tr>
