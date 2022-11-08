@@ -1,5 +1,5 @@
 <p align="center">
-<img src="im a little bitch">
+<img src="https://cdn.discordapp.com/attachments/1026388632321392670/1039286819428249690/guilded_image_8faf2f855cbbd401dafb6c4a1cbd6f85.png">
 </p>
 
 
