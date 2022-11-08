@@ -25,4 +25,5 @@ Thanks To the Following People That Have Helped Me In Some Way!
 - Stan#1969 - The Repo And Finding Items
 - ssfur#3870 - With Finding Items
 - SPKReality#7727 - Changing Image Sizes
+- ⸸♱♥IDK_FORCE♥♱⸸#7611 - Optimizing Images
 - RowDog#1671 - Adding New Items
